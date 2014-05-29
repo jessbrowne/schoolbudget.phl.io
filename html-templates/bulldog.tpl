@@ -78,7 +78,7 @@
                 <h4>How to Use This Tool</h4>
                 <p>The budget data are presented in a clickable <a href="http://en.wikipedia.org/wiki/Treemapping">treemap</a>.  The area of each box is set according to the magnitude of the expenditures in that category.   Just click on the department or category to see greater and greater detail.  Once you dive down to the lowest level, click again to bring up a search listing of all the individual expenditures that make up that box.  Click the home bar to return to higher level views.</p>
                 <p>To search for specific expenditures, use the search tool to search across all types of budget items.</p>
-                <p>If you find any errors, please email <a href="mailto:mandelforcontroller@gmail.com">Brett Mandel</a> so they can be corrected.</p>
+                <p>If you find any errors, pleeeeease email <a href="mailto:mandelforcontroller@gmail.com">Brett Mandel</a> so they can be corrected.</p>
                 <p>The Bulldog Budget supports most modern web browsers.  You will experience problems using Internet Explorer 8 or less.</p>
             </div>
             <div class="modal-footer">
